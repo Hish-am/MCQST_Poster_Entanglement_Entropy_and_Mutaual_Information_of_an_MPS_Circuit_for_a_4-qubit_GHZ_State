@@ -9,3 +9,6 @@ This is the figure illustrating the correspondance between Matrix Product States
   
 This is the "Hypothetical would-be" inferred density matrix we assumed would reflect the decoherence seen in an experimental setting from the quantum computer:  
 <img src="https://github.com/Hish-am/MCQST_Poster_Entanglement_Entropy_and_Mutaual_Information_of_an_MPS_Circuit_for_a_4-qubit_GHZ_State/blob/main/images/experimental_Density_matrix.jpg" width="500">
+
+  
+<img src="https://github.com/Hish-am/MCQST_Poster_Entanglement_Entropy_and_Mutaual_Information_of_an_MPS_Circuit_for_a_4-qubit_GHZ_State/blob/main/images/Calculations.png" width="800">
