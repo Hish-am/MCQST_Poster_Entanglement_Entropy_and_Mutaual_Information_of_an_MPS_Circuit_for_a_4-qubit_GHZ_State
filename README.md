@@ -15,4 +15,4 @@ This is the inferred tomographic density matrix we assumed would reflect the dec
     
     
   
-<img src="hhttps://github.com/Hish-am/MCQST_Poster_Entanglement_Entropy_and_Mutaual_Information_of_an_MPS_Circuit_for_a_4-qubit_GHZ_State/blob/main/images/Calculations.png" width="700">
+<img src="https://github.com/Hish-am/MCQST_Poster_Entanglement_Entropy_and_Mutaual_Information_of_an_MPS_Circuit_for_a_4-qubit_GHZ_State/blob/main/images/Calculations.png" width="700">
